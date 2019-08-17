@@ -14,4 +14,4 @@ The challenge requires to create two dice, where by when you roll the dice, then
 <a href="http://github.com/emmanuelkamala">Emmanuel Kamala</a>
 
 # Live Version
-<a href="http://repl.it">Live Version</a>
+<a href="https://repl.it/@EmmanuelKamala/roll-dice">Live Version</a>
