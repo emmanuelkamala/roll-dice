@@ -10,6 +10,9 @@ The challenge requires to create two dice, where by when you roll the dice, then
 <li>Create an instance method "display" that displays the value of dice when rolled</li>
 </ul>
 
+# Technology Used
+Ruby
+
 # Contributor
 <a href="http://github.com/emmanuelkamala">Emmanuel Kamala</a>
 
