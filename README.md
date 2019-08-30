@@ -3,7 +3,7 @@ The challenge requires to create two dice, where by when you roll the dice, then
 
 # Steps
 <ul>
-<li>Model a set of dice</li>
+<li>Model a set of dice </li>
 <li>Create a DiceSet instance containing 2 Dice instances</li>
 <li>Create an instance method "roll" that should roll both dice</li>
 <li>Create a random function that returns random numbers from 1 to 6</li>
