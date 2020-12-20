@@ -14,7 +14,8 @@ The challenge requires to create two dice, where by when you roll the dice, then
 Ruby
 
 # Contributor
-<a href="http://github.com/emmanuelkamala">Emmanuel Kamala</a>
+<a href="https://github.com/emmanuelkamala">Github</a>
+<a href="https://linkedin.com/in/emmanuelkamala">LinkedIn</a>
 
 # Live Version
 <a href="https://repl.it/@EmmanuelKamala/roll-dice">Live Version</a>
